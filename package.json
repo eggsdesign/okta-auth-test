@@ -5,6 +5,7 @@
   "author": "Erland Glad Solstrand <erland.glad.solstrand@eggsdesign.com>",
   "private": true,
   "dependencies": {
+    "@okta/okta-react": "^2.0.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
   },
