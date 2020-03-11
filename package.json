@@ -1,0 +1,7 @@
+{
+  "name": "auth-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Erland Glad Solstrand <erland.glad.solstrand@eggsdesign.com>",
+  "private": true
+}
